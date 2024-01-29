@@ -1,0 +1,33 @@
+[cursor.style]
+blinking = "Off"
+shape = "Beam"
+
+[cursor.vi_mode_style]
+shape = "Beam"
+
+[env]
+TERM = "alacritty"
+
+[font]
+size = 11
+
+# [font.glyph_offset]
+# x = 0
+# y = 0
+#
+[font.normal]
+family = "Iosevka Nerd Font"
+# family = "JetBrainsMono Nerd Font"
+# family = "Hack Nerd Font"
+style = "Regular"
+
+[font.offset]
+x = 1
+y = 1
+
+ [window]
+ opacity = 0.8
+
+[window.padding]
+x = 5
+y = 5
